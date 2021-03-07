@@ -1,4 +1,8 @@
 third
 edited in develop
 edited in b2
+<<<<<<< HEAD
 edited in origin
+=======
+changed in clone
+>>>>>>> fb467ad0fdd66f17524d9447a3a6073bada66a81

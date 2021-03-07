@@ -2,3 +2,5 @@ first
 edited in develop
 edited in b1
 edited in origin
+edited in clone
+
